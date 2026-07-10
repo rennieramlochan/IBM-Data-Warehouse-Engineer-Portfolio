@@ -1,5 +1,51 @@
 # 📊 IBM Data Warehouse Engineer Certificate Portfolio
 
+Certificate:
+![Certificate for Rennie Ramlochan](URL_TO_YOUR_CERTIFICATE_IMAGE)
+
+## Overview
+This repository serves as a professional portfolio documenting the completion of the **IBM Data Warehouse Engineer Professional Certificate** offered through Coursera.
+
+This program provides comprehensive training in designing, building, and maintaining data warehouses. It covers the full lifecycle of data engineering, including cloud-based data storage, ETL pipeline development, database design, and the use of industry-standard tools to support business intelligence and analytics.
+
+## Technical Proficiencies
+- **Data Warehousing:** Designing scalable schemas (Star/Snowflake) and managing data warehouse architectures.
+- **ETL/ELT Workflows:** Orchestrating data movement, cleaning, and transformation processes using modern pipeline tools.
+- **Database Management:** Working with relational database systems, including PostgreSQL, MySQL, and cloud-native warehousing solutions.
+- **Cloud Engineering:** Implementing and managing data warehouse solutions in cloud environments (e.g., IBM Cloud).
+- **Data Modeling:** Executing normalization techniques and designing optimized structures for complex query performance.
+
+## Course Curriculum & Projects
+
+| Module | Focus Area | Key Deliverables |
+| --- | --- | --- |
+| 01 | Data Warehouse Fundamentals | Architecture concepts and core principles |
+| 02 | Relational Database Design | ER modeling and schema optimization |
+| 03 | ETL and Data Pipelines | Building and automating data transformation flows |
+| 04 | Data Warehouse Implementation | Deploying warehouse solutions on cloud platforms |
+| 05 | OLAP and Reporting | Data cubes, multidimensional analysis, and BI integration |
+| 06 | Capstone | End-to-end data warehouse architecture project |
+
+## Repository Structure
+- course-01-fundamentals/      # Architecture and concept documentation
+- course-02-db-design/         # ER diagrams and normalization reports
+- course-03-etl-pipelines/     # Automation scripts and transformation workflows
+- course-04-cloud-warehousing/ # Cloud deployment and configuration logs
+- course-05-olap/              # OLAP cube design and analysis exercises
+- course-06-capstone/          # Final integrated data warehousing project
+
+## How to View
+1. **Browse the Directories:** Each folder corresponds to a core module of the specialization.
+2. **Review Documentation:** Click on the files to view the design schemas, ETL scripts, and architecture reports developed during the program.
+3. **Reference Material:** Please note that these documents are for reference purposes to demonstrate the application of data engineering and warehousing best practices.
+
+---
+Maintained by Rennie Ramlochan
+
+
+
+
+
 ![IBM Data Warehouse Engineer](https://images.credly.com/size/680x680/images/7af512b2-3290-43b8-867b-0d4352b1927a/image.png)
 
 ![IBM Data Warehouse](https://img.shields.io/badge/IBM-Data_Warehouse_Engineer-0072CE?style=for-the-badge&logo=ibm)
