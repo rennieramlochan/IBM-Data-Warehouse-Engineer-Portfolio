@@ -1,7 +1,9 @@
 # 📊 IBM Data Warehouse Engineer Certificate Portfolio
 
 Certificate:
-![Certificate for Rennie Ramlochan](URL_TO_YOUR_CERTIFICATE_IMAGE)
+![Certificate for Rennie Ramlochan](https://github.com/rennieramlochan/IBM-Data-Warehouse-Engineer-Portfolio/blob/main/IBM%20Data%20Warehouse%20Engineer.jpeg?raw=true)
+
+
 
 ## Overview
 This repository serves as a professional portfolio documenting the completion of the **IBM Data Warehouse Engineer Professional Certificate** offered through Coursera.
@@ -42,22 +44,6 @@ This program provides comprehensive training in designing, building, and maintai
 ---
 Maintained by Rennie Ramlochan
 
-
-
-
-
-![IBM Data Warehouse Engineer](https://images.credly.com/size/680x680/images/7af512b2-3290-43b8-867b-0d4352b1927a/image.png)
-
-![IBM Data Warehouse](https://img.shields.io/badge/IBM-Data_Warehouse_Engineer-0072CE?style=for-the-badge&logo=ibm)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 🎯 Overview
-
-This repository showcases my comprehensive journey through the **IBM Data Warehouse Engineer Professional Certificate** program. It contains hands-on projects, labs, cheat sheets, and final assignments across 9 core courses, demonstrating expertise in data warehousing, ETL/ELT pipelines, database administration, BI reporting, and data pipeline orchestration.
 
 <p float="left">
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-1.jpg" width="300" />
@@ -405,69 +391,4 @@ cd "../Data Warehouse Fundamentals/Final Assignment"
 cat *.sql
 ```
 
-## 📈 Professional Development Journey
 
-### **Phase 1: Foundation** 📚
-- Mastered SQL and database fundamentals
-- Learned Linux system administration
-- Understood relational database design principles
-
-### **Phase 2: Specialization** 🎯
-- Developed expertise in data warehouse design
-- Built ETL/ELT pipelines with modern tools
-- Learned database administration and optimization
-
-### **Phase 3: Integration** 🔗
-- Integrated multiple technologies in capstone project
-- Implemented end-to-end data solutions
-- Created production-ready data pipelines
-
-### **Phase 4: Business Value** 💼
-- Developed business intelligence dashboards
-- Translated data into actionable insights
-- Implemented solutions for real-world business problems
-
-## 🏆 Certifications & Achievements
-
-This portfolio represents mastery in:
-- **IBM Data Warehouse Engineer Professional Certificate**
-- **Data Warehousing & Dimensional Modeling**
-- **ETL Pipeline Development & Orchestration**
-- **Database Administration & Performance Tuning**
-- **Business Intelligence & Data Visualization**
-
-## 📊 Skills Matrix
-
-| Skill Category | Proficiency Level | Key Technologies | Project Examples |
-|----------------|-------------------|------------------|------------------|
-| **Data Warehousing** | Expert | PostgreSQL, Star Schema | Waste Management DW |
-| **ETL/ELT Pipelines** | Expert | Airflow, Kafka, Shell | Toll Data Pipeline |
-| **Database Admin** | Advanced | MySQL, PostgreSQL | Performance Tuning |
-| **SQL Development** | Expert | Complex Queries, Stored Procedures | Chicago Crime Analysis |
-| **BI & Visualization** | Advanced | Cognos, Looker Studio | Automotive Dashboard |
-| **Linux & Scripting** | Advanced | Bash, cron, System Admin | Automated Backup System |
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/WillieConway)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willie-Conway)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- IBM for the comprehensive Data Warehouse Engineer curriculum
-- Coursera for providing the learning platform
-- The open-source community for amazing tools like Apache Airflow, Kafka, and PostgreSQL
-- All instructors and mentors throughout the learning journey
-
----
-
-⭐ **If you find this portfolio helpful, please give it a star!** ⭐
-
-*"Data warehouses are not just storage; they're the foundation for intelligent business decisions."*
-
-*Last updated: January 2025*
