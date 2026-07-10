@@ -3,7 +3,8 @@
 Certificate:
 ![Certificate for Rennie Ramlochan](https://github.com/rennieramlochan/IBM-Data-Warehouse-Engineer-Portfolio/blob/main/IBM%20Data%20Warehouse%20Engineer.jpeg?raw=true)
 
-
+**Certificate for Rennie Ramlochan, Google IT Support, offered through Coursera.** 
+***The focus of this portfolio was to gather, improve, and complete activities related to data engineering and warehouse architecture as presented in IBM’s Data Warehouse Engineer Professional Certificate offered through Coursera. .*** 
 
 ## Overview
 This repository serves as a professional portfolio documenting the completion of the **IBM Data Warehouse Engineer Professional Certificate** offered through Coursera.
